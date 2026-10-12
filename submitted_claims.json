@@ -30,5 +30,85 @@
       "limit": 5000,
       "reason": "Required bill details are present and the amount is within the demo limit."
     }
+  },
+  {
+    "submission_id": "52e45a3b-743e-45cf-be04-10e8142f0659",
+    "submitted_at": "2026-10-12T11:43:15.029326+00:00",
+    "status": "Submitted",
+    "bill_details": {
+      "bill_number": "6369",
+      "bill_date": "25 Jul 2022",
+      "total_amount": 1200.0
+    },
+    "claim_result": {
+      "status": "Approved",
+      "amount": 1200.0,
+      "limit": 5000,
+      "reason": "Required bill details are present and the amount is within the demo limit."
+    }
+  },
+  {
+    "submission_id": "29486c7c-63d0-4f3c-af5d-dbf417eb2256",
+    "submitted_at": "2026-10-12T14:53:38.142603+00:00",
+    "status": "Submitted",
+    "bill_details": {
+      "bill_number": "KALPESH",
+      "bill_date": "19-Oct-2021",
+      "total_amount": 481.79
+    },
+    "claim_result": {
+      "status": "Approved",
+      "amount": 481.79,
+      "limit": 5000,
+      "reason": "Required bill details are present and the amount is within the demo limit."
+    }
+  },
+  {
+    "submission_id": "c97a9e61-e0e2-4b6a-b0a5-d1c11cc07270",
+    "submitted_at": "2026-10-12T14:53:44.958975+00:00",
+    "status": "Submitted",
+    "bill_details": {
+      "bill_number": "6369",
+      "bill_date": "25 Jul 2022",
+      "total_amount": 1200.0
+    },
+    "claim_result": {
+      "status": "Approved",
+      "amount": 1200.0,
+      "limit": 5000,
+      "reason": "Required bill details are present and the amount is within the demo limit."
+    }
+  },
+  {
+    "submission_id": "29fdab05-4581-481d-8c49-7ed55dcb9eec",
+    "submitted_at": "2026-10-12T15:02:11.860094+00:00",
+    "status": "Submitted",
+    "bill_details": {
+      "bill_number": "KALPESH",
+      "bill_date": "19-Oct-2021",
+      "total_amount": 481.79
+    },
+    "claim_result": {
+      "status": "Approved",
+      "amount": 481.79,
+      "limit": 5000,
+      "reason": "Required bill details are present and the amount is within the demo limit."
+    }
+  },
+  {
+    "submission_id": "f20de8dc-7cf0-4775-a7af-94fef58492ee",
+    "submitted_at": "2026-10-12T15:02:19.397643+00:00",
+    "status": "Submitted",
+    "bill_details": {
+      "bill_number": "6369",
+      "bill_date": "25 Jul 2022",
+      "total_amount": 1200.0
+    },
+    "claim_result": {
+      "status": "Approved",
+      "amount": 1200.0,
+      "limit": 5000,
+      "reason": "Required bill details are present and the amount is within the demo limit."
+    }
   }
 ]
